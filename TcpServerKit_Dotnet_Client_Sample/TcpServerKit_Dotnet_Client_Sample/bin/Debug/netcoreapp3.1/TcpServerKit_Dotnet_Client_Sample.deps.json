@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TcpServerKit_Dotnet_Client_Sample/1.0.0": {
+        "dependencies": {
+          "TcpServerKit_Dotnet_Client": "1.0.1"
+        },
+        "runtime": {
+          "TcpServerKit_Dotnet_Client_Sample.dll": {}
+        }
+      },
+      "TcpServerKit_Dotnet_Client/1.0.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/TcpServerKit_Dotnet_Client.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TcpServerKit_Dotnet_Client_Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TcpServerKit_Dotnet_Client/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vPwqPTAKcP55RKUpgVBq/3Zzph9o1Kgl5ALB8h0nxDToX8phrVhJ7mUnGA759jxoH+KUm79cP0q2B8D03isFkQ==",
+      "path": "tcpserverkit_dotnet_client/1.0.1",
+      "hashPath": "tcpserverkit_dotnet_client.1.0.1.nupkg.sha512"
+    }
+  }
+}
